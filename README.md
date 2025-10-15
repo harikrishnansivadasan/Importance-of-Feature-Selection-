@@ -84,7 +84,7 @@ This project performs a **3-way comparative analysis** using three datasets, thr
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/harikrishnansivadasan/Importance-of-Feature-Selection-.git
-   cd Importance-of-Feature-Selection-
+   git clone https://github.com/harikrishnansivadasan/Importance-of-Feature-Selection.git
+   cd Importance-of-Feature-Selection
 
 
