@@ -72,15 +72,15 @@ Visual confirmation of the model performance across all datasets and combination
 
 ### Iris Dataset Accuracy
 
-![Accuracy Chart of Iris Data](image_38b1e6.png)
+![Accuracy Chart of Iris Data](Picture2.png)
 
 ### Diabetes Dataset Accuracy
 
-![Accuracy Chart of Diabetes Data](image_38b1e8.png)
+![Accuracy Chart of Diabetes Data](Picture1.png)
 
 ### Wine Dataset Accuracy
 
-![Accuracy Chart of Wine Data](image_38b1ea.png)
+![Accuracy Chart of Wine Data](Picture3.png)
 
 ---
 
